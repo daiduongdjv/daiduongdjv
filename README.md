@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___. 
 \   \  /   / |  | |   ____||           |   |  \ |  |     /   \     |   \/   | 
@@ -8,9 +10,7 @@ ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___.
                                                                               
 ```
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Hi+there+👋)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Hi+there+👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
